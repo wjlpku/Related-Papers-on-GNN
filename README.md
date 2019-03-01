@@ -5,3 +5,4 @@ __Keyworkd:__ Graph Neural Networks, Recommendation, Heterogeneous information n
 
 
 # Paper List
+* Hierarchical Graph Representation Learning with Differentiable Pooling ,NIPS, 2018 [paper](https://arxiv.org/pdf/1806.08804.pdf)  
