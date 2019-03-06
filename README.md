@@ -7,5 +7,11 @@ __Keyworkd:__ Graph Neural Networks, Recommendation, Heterogeneous information n
 # Paper List
 ## Hierarchical Clustering
 * Hierarchical Graph Representation Learning with Differentiable Pooling ,NIPS, 2018 [[paper]](https://arxiv.org/pdf/1806.08804.pdf)
-* Clustering with Deep Learning: Taxonomy and New Methods [[paper]](https://arxiv.org/pdf/1801.07648.pdf)
+* Clustering with Deep Learning: Taxonomy and New Methods [[paper]](https://arxiv.org/pdf/1801.07648.pdf)  
+
+
+# Evaluation of clustering
+https://nlp.stanford.edu/IR-book/html/htmledition/evaluation-of-clustering-1.html
+
+
 
